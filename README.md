@@ -30,7 +30,7 @@
 
 		git clone https://github.com/Sai-Adarsh/IBMHackChallenge.git
 		cd IBMHackChallenge
-		pip install -r requirement.txt
+		pip install -r requirements.txt
 
 ### Running Locally
 * To run the WebApp locally: 
