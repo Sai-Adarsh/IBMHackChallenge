@@ -6,7 +6,8 @@
 
 ![img alt](images/IBMHackChallenge_banner.jpg)
 
-## Theme: User Query on Stack Overflow 
+## Theme: User Query on Stack Overflow
+
 ### Problem Statement
 
 * The problem statement aims at building a solution that helps to find the right answers that are relevant to the **developer issues** on Stack Overflow.
@@ -18,6 +19,10 @@
 ### Our Solution 
 
 * The proposed solution helps to identify most relevant questions to a query using text similarity including **identify the matching tags and pick top relevant questions from stack overflow** and identify top (k) solutions of the problem based on sentiment analysis of reviews of the given solutions on the Stack Overflow.
+
+### Solution Deck
+
+* Click [here]('Appendly_IBMHackChallenge.pdf') for Solution deck.
 
 ### Team Members
 * [Sai Adarsh S](https://LINkedin.com/in/sai-adarsh/), [Rajasekar M](https://www.linkedin.com/in/rajasekar1999), [Sibi Bose P.S.](https://www.linkedin.com/in/sibi-bose-8683b6150/)
