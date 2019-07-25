@@ -22,7 +22,7 @@
 
 ### Solution Deck
 
-* Click [here]('Appendly_IBMHackChallenge.pdf') for Solution deck.
+* Click [here](Appendly_IBMHackChallenge.pdf) for Solution deck.
 
 ### Team Members
 * [Sai Adarsh S](https://LINkedin.com/in/sai-adarsh/), [Rajasekar M](https://www.linkedin.com/in/rajasekar1999), [Sibi Bose P.S.](https://www.linkedin.com/in/sibi-bose-8683b6150/)
